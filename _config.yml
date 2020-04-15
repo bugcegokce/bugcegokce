@@ -1,22 +1,20 @@
 
-title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+title: My Personal Web Page
+url: 'https://bugcegokce.github.io/'
+baseurl: '/bugcegokce' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Buğçe GÖKÇE  ## put your name
+title: 'Geomatik Mühendisi'  ## your title
+location: Ankara , TR
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+facebook: https://www.facebook.com/bugce.gokce  ## your facebook account url
+linkedin: https://www.linkedin.com/in/bu%C4%9F%C3%A7e-g%C3%B6k%C3%A7e-41068011a/  ## your linkedin account url
+instagram: https://www.instagram.com/bgcgkc
 
 
 
